@@ -1,7 +1,4 @@
-# NN_from_scratch
- Here’s the updated GitHub README based on your specifications:
 
----
 
 # NumPy Neural Network Implementation
 
