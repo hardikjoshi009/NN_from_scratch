@@ -1,5 +1,3 @@
-
-
 # NumPy Neural Network Implementation
 
 This project implements a flexible neural network using NumPy from scratch, incorporating L1, L2, and combined regularization techniques to improve model generalization. The network is trained on the K-MNIST dataset, which consists of Japanese character images. 
@@ -55,6 +53,3 @@ The neural network was trained on the K-MNIST dataset, achieving the following a
 - **L2 Regularization**: 79.01% accuracy
 - **Combined Regularization**: 79.78% accuracy
 
----
-
-This version reflects the flexibility of the neural network and focuses more on the architecture and the methods used.
